@@ -1,4 +1,4 @@
-# Testes automatizados utilizando Cypress 
+# Automated Tests using Cypress
 
 It is required to have Node.js and npm installed to run this project.
 
